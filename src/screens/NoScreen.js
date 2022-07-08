@@ -2,9 +2,9 @@ import React from 'react';
 
 class NoScreen extends React.Component
 {
-    constructor() {
-        super()
-    }
+    // constructor() {
+    //     super()
+    // }
 
     render()
     {
